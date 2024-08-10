@@ -6,3 +6,5 @@ matplotlib
 seaborn
 pyspark
 openai
+nltk
+transformers 
